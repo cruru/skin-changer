@@ -1,0 +1,8 @@
+name: Skin
+version: '${project.version}'
+main: me.cruru.skin.Main
+api-version: 1.18
+authors: [ cruru ]
+description: skin plugin
+commands:
+  skin:
